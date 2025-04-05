@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Bible Verse Reminder",
+  "name": "Ever Green Verse",
   "version": "1.0",
   "description": "Get regular reminders with Bible verses.",
   "permissions": ["notifications", "alarms", "storage"],
