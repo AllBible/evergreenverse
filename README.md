@@ -5,3 +5,5 @@
 ![Static Badge](https://img.shields.io/badge/paypal-blue?style=plastic&logo=paypal&logoColor=blue&label=support&link=https%3A%2F%2Fpaypal.me%2Fm2kdevelopment)
 
 Ever Green Verse is a chrome extension that pop ups a verse frequently so you always stay blessed.
+
+<img src="./graphic.png" />
