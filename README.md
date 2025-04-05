@@ -6,4 +6,6 @@
 
 Ever Green Verse is a chrome extension that pop ups a verse frequently so you always stay blessed.
 
-<img src="./graphic.png" />
+<img src="./icons/graphic.png" />
+<img src="./icons/smallpromotile.png" />
+<img src="./icons/screenshot.png" />
