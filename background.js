@@ -49,7 +49,7 @@ chrome.alarms.onAlarm.addListener(async (alarm) => {
       chrome.notifications.create(id, {
         type: 'basic',
         iconUrl: 'icon.png',
-        title: 'Ever Green Verse',
+        title: 'Ever Green Verse 🍃',
         contextMessage: verse.title,
         message: verse.text,
         priority: 2
